@@ -3,16 +3,16 @@ Basic knowladge: Alekhine's Defence is a chess opening that begins with 1.e4 Nf6
 
 ![Alekhine’s Defense](https://chessfox.com/wp-content/uploads/2020/03/alekhines-defence-main-line.png)
 
-[Basic Theory]({ site.baseurl }/theory/Alekhine’s_Defense.md)
+[Basic Theory](/theory/Alekhine’s_Defense)
 
 ---
 
 ## Benko Gambit
-Basic knowladge: Learn about the chess opening Benko Gambit, also known as Volga Gambit, where Black sacrifices a pawn for queenside pressure. Find out its origin, variations, and examples of play. ([Source](https://en.wikipedia.org/wiki/Benko_Gambit))
+Basic knowladge: Learn the Benko Gambit, a popular opening for Black against 1.d4, where Black gives up a pawn for queenside pressure. See the main lines, variations, examples, and tips from top players and experts. ([Source](https://www.chess.com/openings/Benko-Gambit))
 
 ![Benko Gambit](https://chessfox.com/wp-content/uploads/2020/03/benko-gambit.png)
 
-[Basic Theory]({ site.baseurl }/theory/Benko_Gambit.md)
+[Basic Theory](/theory/Benko_Gambit)
 
 ---
 
@@ -21,7 +21,7 @@ Basic knowladge: Benoni Defense is a chess opening characterized by an early rep
 
 ![Benoni Defense](https://chessfox.com/wp-content/uploads/2020/03/benoni-defence.png)
 
-[Basic Theory]({ site.baseurl }/theory/Benoni_Defense.md)
+[Basic Theory](/theory/Benoni_Defense)
 
 ---
 
@@ -30,7 +30,7 @@ Basic knowladge: Bird's Opening is a chess opening named after Henry Bird, a 19t
 
 ![Bird’s Opening](https://chessfox.com/wp-content/uploads/2020/03/birds-opening.png)
 
-[Basic Theory]({ site.baseurl }/theory/Bird’s_Opening.md)
+[Basic Theory](/theory/Bird’s_Opening)
 
 ---
 
@@ -39,7 +39,7 @@ Basic knowladge: The Bogo-Indian Defence is named after the Russian-born German 
 
 ![Bogo-Indian Defense](https://chessfox.com/wp-content/uploads/2020/03/Bogo-Indian-Defence.png)
 
-[Basic Theory]({ site.baseurl }/theory/Bogo-Indian_Defense.md)
+[Basic Theory](/theory/Bogo-Indian_Defense)
 
 ---
 
@@ -48,7 +48,7 @@ Basic knowladge: Learn about the Budapest Gambit, a tricky opening for Black tha
 
 ![Budapest Gambit](https://chessfox.com/wp-content/uploads/2020/03/Budapest-Gambit.png)
 
-[Basic Theory]({ site.baseurl }/theory/Budapest_Gambit.md)
+[Basic Theory](/theory/Budapest_Gambit)
 
 ---
 
@@ -57,7 +57,7 @@ Basic knowladge: Learn about the Catalan Opening, a 1.d4 opening where White fia
 
 ![Catalan Opening](https://chessfox.com/wp-content/uploads/2020/03/Catalan-Opening.png)
 
-[Basic Theory]({ site.baseurl }/theory/Catalan_Opening.md)
+[Basic Theory](/theory/Catalan_Opening)
 
 ---
 
@@ -66,7 +66,7 @@ Basic knowladge: Learn about the Caro-Kann Defense, a solid and popular opening 
 
 ![Caro-Kann Defense](https://chessfox.com/wp-content/uploads/2020/03/Caro-Kann-Defence.png)
 
-[Basic Theory]({ site.baseurl }/theory/Caro-Kann_Defense.md)
+[Basic Theory](/theory/Caro-Kann_Defense)
 
 ---
 
@@ -75,7 +75,7 @@ Basic knowladge: Learn about the Colle System, a piece setup for White that aims
 
 ![Colle System](https://chessfox.com/wp-content/uploads/2020/03/Colle-System.png)
 
-[Basic Theory]({ site.baseurl }/theory/Colle_System.md)
+[Basic Theory](/theory/Colle_System)
 
 ---
 
@@ -84,7 +84,7 @@ Basic knowladge: Dutch Defence is a chess opening that starts with 1.d4 f5. It i
 
 ![Dutch Defense](https://chessfox.com/wp-content/uploads/2020/03/Dutch-Defence.png)
 
-[Basic Theory]({ site.baseurl }/theory/Dutch_Defense.md)
+[Basic Theory](/theory/Dutch_Defense)
 
 ---
 
@@ -93,7 +93,7 @@ Basic knowladge: Learn about the English Opening, a flank opening where White mo
 
 ![English Opening](https://chessfox.com/wp-content/uploads/2020/03/English-Opening.png)
 
-[Basic Theory]({ site.baseurl }/theory/English_Opening.md)
+[Basic Theory](/theory/English_Opening)
 
 ---
 
@@ -102,7 +102,7 @@ Basic knowladge: Learn about the Evans Gambit, a chess opening that offers a paw
 
 ![Evans Gambit](https://chessfox.com/wp-content/uploads/2020/03/Evans-Gambit.png)
 
-[Basic Theory]({ site.baseurl }/theory/Evans_Gambit.md)
+[Basic Theory](/theory/Evans_Gambit)
 
 ---
 
@@ -111,7 +111,7 @@ Basic knowladge: The Four Knights Game is a chess opening that begins with the m
 
 ![Four Knights Game](https://chessfox.com/wp-content/uploads/2020/03/Four-Knights-Game.png)
 
-[Basic Theory]({ site.baseurl }/theory/Four_Knights_Game.md)
+[Basic Theory](/theory/Four_Knights_Game)
 
 ---
 
@@ -120,7 +120,7 @@ Basic knowladge: Learn about the French Defense, one of the most popular Black r
 
 ![French Defense](https://chessfox.com/wp-content/uploads/2020/03/French-Defence.png)
 
-[Basic Theory]({ site.baseurl }/theory/French_Defense.md)
+[Basic Theory](/theory/French_Defense)
 
 ---
 
@@ -129,7 +129,7 @@ Basic knowladge: Giuoco Piano is a chess opening that begins with 1.e4 e5 2.Nf3 
 
 ![Giuoco Piano](https://chessfox.com/wp-content/uploads/2020/03/Giuoco-Piano.png)
 
-[Basic Theory]({ site.baseurl }/theory/Giuoco_Piano.md)
+[Basic Theory](/theory/Giuoco_Piano)
 
 ---
 
@@ -138,7 +138,7 @@ Basic knowladge: The Grünfeld Defence is a chess opening characterised by the m
 
 ![Grünfeld Defense](https://chessfox.com/wp-content/uploads/2020/03/Grunfeld-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Grünfeld_Defense.md)
+[Basic Theory](/theory/Grünfeld_Defense)
 
 ---
 
@@ -147,7 +147,7 @@ Basic knowladge: The Italian Game is one of the oldest openings in chess, with I
 
 ![Italian Game](https://chessfox.com/wp-content/uploads/2020/03/Italian-Game.png)
 
-[Basic Theory]({ site.baseurl }/theory/Italian_Game.md)
+[Basic Theory](/theory/Italian_Game)
 
 ---
 
@@ -156,7 +156,7 @@ Basic knowladge: Learn about the King's Gambit, an aggressive opening that offer
 
 ![King’s Gambit](https://chessfox.com/wp-content/uploads/2020/03/Kings-Gambit.png)
 
-[Basic Theory]({ site.baseurl }/theory/King’s_Gambit.md)
+[Basic Theory](/theory/King’s_Gambit)
 
 ---
 
@@ -165,7 +165,7 @@ Basic knowladge: The King's Indian Attack (or KIA) is a chess opening system whe
 
 ![King’s Indian Attack (KIA)](https://chessfox.com/wp-content/uploads/2020/03/Kings-Indian-Attack.png)
 
-[Basic Theory]({ site.baseurl }/theory/King’s_Indian_Attack_(KIA).md)
+[Basic Theory](/theory/King’s_Indian_Attack_(KIA))
 
 ---
 
@@ -174,7 +174,7 @@ Basic knowladge: The earliest known use of the term "Indian Defence" was in 1884
 
 ![King’s Indian Defense (KID)](https://chessfox.com/wp-content/uploads/2020/03/Kings-Indian-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/King’s_Indian_Defense_(KID).md)
+[Basic Theory](/theory/King’s_Indian_Defense_(KID))
 
 ---
 
@@ -183,7 +183,7 @@ Basic knowladge: The King's Pawn Game is any chess opening starting with the mov
 
 ![King’s Pawn Game](https://chessfox.com/wp-content/uploads/2020/03/Kings-Pawn-Game.png)
 
-[Basic Theory]({ site.baseurl }/theory/King’s_Pawn_Game.md)
+[Basic Theory](/theory/King’s_Pawn_Game)
 
 ---
 
@@ -192,7 +192,7 @@ Basic knowladge: Learn the London System, a solid and flexible 1.d4 opening for 
 
 ![London System](https://chessfox.com/wp-content/uploads/2020/03/London-System.png)
 
-[Basic Theory]({ site.baseurl }/theory/London_System.md)
+[Basic Theory](/theory/London_System)
 
 ---
 
@@ -201,7 +201,7 @@ Basic knowladge: Modern Defense is a hypermodern chess opening where Black delay
 
 ![Modern Defense](https://chessfox.com/wp-content/uploads/2020/03/Modern-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Modern_Defense.md)
+[Basic Theory](/theory/Modern_Defense)
 
 ---
 
@@ -210,7 +210,7 @@ Basic knowladge: The Nimzo-Indian Defense (often called "the Nimzo" for short) i
 
 ![Nimzo-Indian Defense](https://chessfox.com/wp-content/uploads/2020/03/Nimzo-Indian-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Nimzo-Indian_Defense.md)
+[Basic Theory](/theory/Nimzo-Indian_Defense)
 
 ---
 
@@ -219,7 +219,7 @@ Basic knowladge: Learn about the Nimzowitsch Defence, a hypermodern chess openin
 
 ![Nimzowitsch Defense](https://chessfox.com/wp-content/uploads/2020/03/Nimzowitsch-Defence.png)
 
-[Basic Theory]({ site.baseurl }/theory/Nimzowitsch_Defense.md)
+[Basic Theory](/theory/Nimzowitsch_Defense)
 
 ---
 
@@ -228,7 +228,7 @@ Basic knowladge: Petrov's Defence or the Petrov Defence (also called Petroff Def
 
 ![Petrov’s Defense](https://chessfox.com/wp-content/uploads/2020/03/Petrovs-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Petrov’s_Defense.md)
+[Basic Theory](/theory/Petrov’s_Defense)
 
 ---
 
@@ -237,7 +237,7 @@ Basic knowladge: The Philidor Defence (or Philidor's Defence) is a chess opening
 
 ![Philidor’s Defense](https://chessfox.com/wp-content/uploads/2020/03/Philidors-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Philidor’s_Defense.md)
+[Basic Theory](/theory/Philidor’s_Defense)
 
 ---
 
@@ -246,7 +246,7 @@ Basic knowladge: Learn the Pirc Defense, a hypermodern way for Black to respond 
 
 ![Pirc Defense](https://chessfox.com/wp-content/uploads/2020/03/Pirc-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Pirc_Defense.md)
+[Basic Theory](/theory/Pirc_Defense)
 
 ---
 
@@ -255,7 +255,7 @@ Basic knowladge: In the 19th century and early 20th century, 1.e4 was by far the
 
 ![Queen’s Pawn Game](https://chessfox.com/wp-content/uploads/2020/03/Queens-Pawn-Game.png)
 
-[Basic Theory]({ site.baseurl }/theory/Queen’s_Pawn_Game.md)
+[Basic Theory](/theory/Queen’s_Pawn_Game)
 
 ---
 
@@ -264,7 +264,7 @@ Basic knowladge: The Queen's Gambit is a 2020 American coming-of-age period dram
 
 ![Queen’s Gambit](https://chessfox.com/wp-content/uploads/2020/04/Queens-Gambit.png)
 
-[Basic Theory]({ site.baseurl }/theory/Queen’s_Gambit.md)
+[Basic Theory](/theory/Queen’s_Gambit)
 
 ---
 
@@ -273,7 +273,7 @@ Basic knowladge: Learn about the chess opening 1.d4 d5 2.c4 dxc4, also known as 
 
 ![Queen’s Gambit Accepted](https://chessfox.com/wp-content/uploads/2020/03/Queens-Gambit-Accepted-Main-Line.png)
 
-[Basic Theory]({ site.baseurl }/theory/Queen’s_Gambit_Accepted.md)
+[Basic Theory](/theory/Queen’s_Gambit_Accepted)
 
 ---
 
@@ -282,25 +282,25 @@ Basic knowladge: Learn about the chess opening in which Black declines a pawn of
 
 ![Queen’s Gambit Declined](https://chessfox.com/wp-content/uploads/2020/03/Queens-Gambit-Declined-Semi-Slav-Variation.png)
 
-[Basic Theory]({ site.baseurl }/theory/Queen’s_Gambit_Declined.md)
+[Basic Theory](/theory/Queen’s_Gambit_Declined)
 
 ---
 
 ## Queen’s Indian Defense
-Basic knowladge: Learn about the chess opening Queen's Indian Defense, a solid defense to the Queen's Pawn Game. Find out its main lines, variations, themes, and examples from grandmaster games. ([Source](https://en.wikipedia.org/wiki/Queen's_Indian_Defense))
+Basic knowladge: Learn the Queen's Indian Defense, a hypermodern opening for Black that defends against White's queen's pawns. Explore the main lines, variations, and key ideas of this solid and versatile opening. ([Source](https://www.chess.com/openings/Queens-Indian-Defense))
 
 ![Queen’s Indian Defense](https://chessfox.com/wp-content/uploads/2020/03/Queens-Indian-Defense-Fianchetto-Variation.png)
 
-[Basic Theory]({ site.baseurl }/theory/Queen’s_Indian_Defense.md)
+[Basic Theory](/theory/Queen’s_Indian_Defense)
 
 ---
 
 ## Réti Opening
-Basic knowladge: The Réti Opening is a hypermodern chess opening that begins with 1.Nf3 d5 2.c4. It is named after Richard Réti, who popularized it in the 1920s and used it to beat Capablanca in 1924. ([Source](https://en.wikipedia.org/wiki/Réti_Opening))
+Basic knowladge: Learn about the Réti Opening, a flexible and hypermodern way to start a chess game with 1.Nf3. Find out how it can transpose into other openings, such as the English, the Queen's Gambit or the King's Indian Attack. ([Source](https://www.chess.com/openings/Reti-Opening))
 
 ![Réti Opening](https://chessfox.com/wp-content/uploads/2020/03/Réti-Opening-Transpose-Queens-Gambit-Declined.png)
 
-[Basic Theory]({ site.baseurl }/theory/Réti_Opening.md)
+[Basic Theory](/theory/Réti_Opening)
 
 ---
 
@@ -309,16 +309,16 @@ Basic knowladge: The Ruy Lopez (/ r ɔɪ, ˈ r uː i /; Spanish: [ˈruj ˈlopeθ
 
 ![Ruy Lopez](https://chessfox.com/wp-content/uploads/2020/03/Ruy-Lopez-Closed-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Ruy_Lopez.md)
+[Basic Theory](/theory/Ruy_Lopez)
 
 ---
 
 ## Scandinavian Defense
-Basic knowladge: Learn about the Scandinavian Defense, a chess opening where Black attacks White's e4 pawn with 1...d5. Find out its history, variations, advantages, disadvantages and examples from master games. ([Source](https://www.chess.com/openings/Scandinavian-Defense))
+Basic knowladge: Learn about the history, theory, and variations of the Scandinavian Defense, a chess opening that starts with 1.e4 d5. Find out how top players have used it in recent years and how it differs from the Caro-Kann Defense. ([Source](https://en.wikipedia.org/wiki/Scandinavian_Defense))
 
 ![Scandinavian Defense](https://chessfox.com/wp-content/uploads/2020/03/Scandinavian-Defense-Main-Line.png)
 
-[Basic Theory]({ site.baseurl }/theory/Scandinavian_Defense.md)
+[Basic Theory](/theory/Scandinavian_Defense)
 
 ---
 
@@ -327,7 +327,7 @@ Basic knowladge: Learn about the Scotch Game, a 1.e4 opening for White that avoi
 
 ![Scotch Game](https://chessfox.com/wp-content/uploads/2020/03/Scotch-Game-Classical-Variation.png)
 
-[Basic Theory]({ site.baseurl }/theory/Scotch_Game.md)
+[Basic Theory](/theory/Scotch_Game)
 
 ---
 
@@ -336,16 +336,16 @@ Basic knowladge: Learn about the Sicilian Defense, the most popular response to 
 
 ![Sicilian Defense](https://chessfox.com/wp-content/uploads/2020/03/Sicilian-Defense-Najdorf-Variation.png)
 
-[Basic Theory]({ site.baseurl }/theory/Sicilian_Defense.md)
+[Basic Theory](/theory/Sicilian_Defense)
 
 ---
 
 ## Slav Defense
-Basic knowladge: The Slav Defense is a chess opening that begins with the moves: 1. d4 d5 2. c4 c6. The Slav is one of the primary defenses to the Queen's Gambit. Although it was analyzed as early as 1590, it was not until the 1920s that it started to be explored extensively, although Steinitz essayed it in the first official World Chess Championship of 1886. ([Source](https://en.wikipedia.org/wiki/Slav_Defense))
+Basic knowladge: The Slav Defense is a solid opening for Black in response to White's Queen's Gambit (1.d4 d5 2.c4). Black fights for equality against one of White's most popular openings without creating a bad light-squared bishop—one of the downsides of other defenses like the French Defense and the Queen's Gambit Declined. ([Source](https://www.chess.com/openings/Slav-Defense))
 
 ![Slav Defense](https://chessfox.com/wp-content/uploads/2022/08/Slav-Defense-Semi-Slav.png)
 
-[Basic Theory]({ site.baseurl }/theory/Slav_Defense.md)
+[Basic Theory](/theory/Slav_Defense)
 
 ---
 
@@ -354,7 +354,7 @@ Basic knowladge: The Torre Attack is rarely met in modern top-flight play as a "
 
 ![Torre Attack](https://chessfox.com/wp-content/uploads/2020/03/Torre-Attack-Classical-Defense.png)
 
-[Basic Theory]({ site.baseurl }/theory/Torre_Attack.md)
+[Basic Theory](/theory/Torre_Attack)
 
 ---
 
@@ -363,7 +363,7 @@ Basic knowladge: The Two Knights Defense (also called the Prussian Defense) is a
 
 ![Two Knights Defense](https://chessfox.com/wp-content/uploads/2020/03/Fried-Liver-Attack.png)
 
-[Basic Theory]({ site.baseurl }/theory/Two_Knights_Defense.md)
+[Basic Theory](/theory/Two_Knights_Defense)
 
 ---
 
@@ -372,7 +372,7 @@ Basic knowladge: Learn about the Vienna Game, a 1.e4 opening for White that is l
 
 ![Vienna Game](https://chessfox.com/wp-content/uploads/2020/03/Vienna-Game-Mieses-Variation.png)
 
-[Basic Theory]({ site.baseurl }/theory/Vienna_Game.md)
+[Basic Theory](/theory/Vienna_Game)
 
 ---
 
@@ -381,7 +381,7 @@ Basic knowladge: The Wade Defence is a chess opening characterised by the initia
 
 ![Wade Defense](https://chessfox.com/wp-content/uploads/2020/03/Wade-Defense-Main-Line-1.png)
 
-[Basic Theory]({ site.baseurl }/theory/Wade_Defense.md)
+[Basic Theory](/theory/Wade_Defense)
 
 ---
 
