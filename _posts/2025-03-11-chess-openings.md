@@ -3,11 +3,9 @@ Basic knowladge: Alekhine's Defence is a chess opening that begins with 1.e4 Nf6
 
 ![Alekhine’s Defense](https://chessfox.com/wp-content/uploads/2020/03/alekhines-defence-main-line.png)
 
-**Basic Theory:**
-
-The opening is named after Alexander Alekhine, the fourth world champion, who played it in two of his games in a tournament in Budapest, 1921.
-Alekhine’s Defense is ahypermodern openingfrom black’s perspective. Black dares white to grab space in the center with the moves 2.e5 Nd5 3.c4. Black then intends to attack and undermine white’s central pawns. However, if white manages to effectively support their central pawns, white will enjoy a strong advantage in the center.
-A common variation in the Alekhine Defense Opening is The Modern Variation.
+[Info about basic Theory](theory/The_opening_is_named_after_Alexander_Alekhine,_the_fourth_world_champion,_who_played_it_in_two_of_his_games_in_a_tournament_in_Budapest,_1921.
+Alekhine’s_Defense_is_ahypermodern_openingfrom_black’s_perspective._Black_dares_white_to_grab_space_in_the_center_with_the_moves_2.e5_Nd5_3.c4._Black_then_intends_to_attack_and_undermine_white’s_central_pawns._However,_if_white_manages_to_effectively_support_their_central_pawns,_white_will_enjoy_a_strong_advantage_in_the_center.
+A_common_variation_in_the_Alekhine_Defense_Opening_is_The_Modern_Variation..md)
 
 ---
 
@@ -16,11 +14,9 @@ Basic knowladge: Learn the Benko Gambit, a popular opening for Black against 1.d
 
 ![Benko Gambit](https://chessfox.com/wp-content/uploads/2020/03/benko-gambit.png)
 
-**Basic Theory:**
-
-The Benko Gambit, also known as the Volga Gambit or the Volga-Benko Gambit (named after Pal Benko and the Volga River), is agambit openingfrom black’s perspective.
-The Benko Gambit is a rather unique response to 1.d4 where black wants to sacrifice a pawn in the hope to obtain lasting pressure–through active pieces and open files on the queen-side. Black’s strategy is then further enhanced by placing a fianchettoed bishop on g7 which can potentially heap immense pressure on white’s queenside. Black should approach these ideas energetically–or else risk losing the initiative if white finds the time to organize a solid defense.
-If white declines the gambit then the game will likely enter a position resembling theBenoni Defense, and offers black a completely playable position. However, a popular response for white is to accept the gambit, leading to the Benko Gambit Accepted variation.
+[Info about basic Theory](theory/The_Benko_Gambit,_also_known_as_the_Volga_Gambit_or_the_Volga-Benko_Gambit_(named_after_Pal_Benko_and_the_Volga_River),_is_agambit_openingfrom_black’s_perspective.
+The_Benko_Gambit_is_a_rather_unique_response_to_1.d4_where_black_wants_to_sacrifice_a_pawn_in_the_hope_to_obtain_lasting_pressure–through_active_pieces_and_open_files_on_the_queen-side._Black’s_strategy_is_then_further_enhanced_by_placing_a_fianchettoed_bishop_on_g7_which_can_potentially_heap_immense_pressure_on_white’s_queenside._Black_should_approach_these_ideas_energetically–or_else_risk_losing_the_initiative_if_white_finds_the_time_to_organize_a_solid_defense.
+If_white_declines_the_gambit_then_the_game_will_likely_enter_a_position_resembling_theBenoni_Defense,_and_offers_black_a_completely_playable_position._However,_a_popular_response_for_white_is_to_accept_the_gambit,_leading_to_the_Benko_Gambit_Accepted_variation..md)
 
 ---
 
@@ -29,11 +25,9 @@ Basic knowladge: Benoni Defense is a chess opening characterized by an early rep
 
 ![Benoni Defense](https://chessfox.com/wp-content/uploads/2020/03/benoni-defence.png)
 
-**Basic Theory:**
-
-In the Benoni Defence, black’s overarching strategy is to create significant imbalances in the position. Imbalances will create more dynamic opportunities and thus black will get more winning chances than they would typically get from a more solid response. This benefit comes, of course, at the cost of increased losing chances too! That is why top chess players favor this opening in “must-win” match situations.
-Note:After 1.d4 Nf6 2.c4 c5, white doesn’t win a pawn with 3.dxc5 because 3… e6, followed by Bxc5 will only help black. Alternatively, 1.d4 Nf6 2.c4 c5 3.dxc5 e6 4.b4 a5! is even better for black.
-A popular variation in the Benoni opening is the Modern Variation.
+[Info about basic Theory](theory/In_the_Benoni_Defence,_black’s_overarching_strategy_is_to_create_significant_imbalances_in_the_position._Imbalances_will_create_more_dynamic_opportunities_and_thus_black_will_get_more_winning_chances_than_they_would_typically_get_from_a_more_solid_response._This_benefit_comes,_of_course,_at_the_cost_of_increased_losing_chances_too!_That_is_why_top_chess_players_favor_this_opening_in_“must-win”_match_situations.
+Note:After_1.d4_Nf6_2.c4_c5,_white_doesn’t_win_a_pawn_with_3.dxc5_because_3…_e6,_followed_by_Bxc5_will_only_help_black._Alternatively,_1.d4_Nf6_2.c4_c5_3.dxc5_e6_4.b4_a5!_is_even_better_for_black.
+A_popular_variation_in_the_Benoni_opening_is_the_Modern_Variation..md)
 
 ---
 
@@ -42,11 +36,9 @@ Basic knowladge: Bird's Opening is a chess opening named after Henry Bird, a 19t
 
 ![Bird’s Opening](https://chessfox.com/wp-content/uploads/2020/03/birds-opening.png)
 
-**Basic Theory:**
-
-The Bird’s Opening is named after British master Henry Edward Bird, who played the opening throughout his chess career in the mid-nineteenth century.
-The Bird’s opening is an aggressive, imbalanced and rather unusual opening where white aims to control the e5-square, possibly with the help of a fianchettoed bishop on b2. The opening generally offers good attacking chances to white but comes at the cost of weakening their own king-side.
-A popular response by black is 1… d5, known as the Dutch Variation of the Bird’s Opening.
+[Info about basic Theory](theory/The_Bird’s_Opening_is_named_after_British_master_Henry_Edward_Bird,_who_played_the_opening_throughout_his_chess_career_in_the_mid-nineteenth_century.
+The_Bird’s_opening_is_an_aggressive,_imbalanced_and_rather_unusual_opening_where_white_aims_to_control_the_e5-square,_possibly_with_the_help_of_a_fianchettoed_bishop_on_b2._The_opening_generally_offers_good_attacking_chances_to_white_but_comes_at_the_cost_of_weakening_their_own_king-side.
+A_popular_response_by_black_is_1…_d5,_known_as_the_Dutch_Variation_of_the_Bird’s_Opening..md)
 
 ---
 
@@ -55,22 +47,18 @@ Basic knowladge: The Bogo-Indian Defence is named after the Russian-born German 
 
 ![Bogo-Indian Defense](https://chessfox.com/wp-content/uploads/2020/03/Bogo-Indian-Defence.png)
 
-**Basic Theory:**
-
-Black’s idea is very simple–to develop their king-side as quickly as possible, whilst disrupting white’s queen-side development. Once this is achieved, black will aim to undermine any white presence in the centre.
-A popular variation in the Bogo-Indian Defense is the Nimzowitsch Variation.
+[Info about basic Theory](theory/Black’s_idea_is_very_simple–to_develop_their_king-side_as_quickly_as_possible,_whilst_disrupting_white’s_queen-side_development._Once_this_is_achieved,_black_will_aim_to_undermine_any_white_presence_in_the_centre.
+A_popular_variation_in_the_Bogo-Indian_Defense_is_the_Nimzowitsch_Variation..md)
 
 ---
 
 ## Budapest Gambit
-Basic knowladge: Learn about the Budapest Gambit, a tricky opening for Black that offers a pawn and attacks White's knight. Explore its variations, history, and key ideas with lessons and challenges. ([Source](https://www.chess.com/openings/Budapest-Gambit))
+Basic knowladge: Learn about the chess opening that begins with 1.d4 Nf6 2.c4 e5, named after Budapest, Hungary. Find out its history, variations, themes, and famous players. ([Source](https://en.wikipedia.org/wiki/Budapest_Gambit))
 
 ![Budapest Gambit](https://chessfox.com/wp-content/uploads/2020/03/Budapest-Gambit.png)
 
-**Basic Theory:**
-
-The Budapest Gambit is mostly used as a surprise weapon against people who are probably not up to date with the theory of the opening. It is a very aggressive approach by black, challenging the centre from the word go and potentially launching an all-out attack on the white. White shouldn’t try to keep their pawn on e5 as this will help black. Instead, white should aim to give back the pawn on favorable terms, for example gaining the bishop pair or forcing black to waste time regaining the pawn.
-A popular variation in the Budapest Gambit is the Rubinstein Variation.
+[Info about basic Theory](theory/The_Budapest_Gambit_is_mostly_used_as_a_surprise_weapon_against_people_who_are_probably_not_up_to_date_with_the_theory_of_the_opening._It_is_a_very_aggressive_approach_by_black,_challenging_the_centre_from_the_word_go_and_potentially_launching_an_all-out_attack_on_the_white._White_shouldn’t_try_to_keep_their_pawn_on_e5_as_this_will_help_black._Instead,_white_should_aim_to_give_back_the_pawn_on_favorable_terms,_for_example_gaining_the_bishop_pair_or_forcing_black_to_waste_time_regaining_the_pawn.
+A_popular_variation_in_the_Budapest_Gambit_is_the_Rubinstein_Variation..md)
 
 ---
 
@@ -79,10 +67,8 @@ Basic knowladge: Learn about the Catalan Opening, a 1.d4 opening where White fia
 
 ![Catalan Opening](https://chessfox.com/wp-content/uploads/2020/03/Catalan-Opening.png)
 
-**Basic Theory:**
-
-White aims to get a solid foothold in the centre and then mounts pressure on the queen-side. To this end, the white bishop on g2 plays a prominent role in the Catalan opening and will coordinate it’s efforts particularly with white’s c-pawn.
-A popular variation in the Catalan opening is the Open Defense.
+[Info about basic Theory](theory/White_aims_to_get_a_solid_foothold_in_the_centre_and_then_mounts_pressure_on_the_queen-side._To_this_end,_the_white_bishop_on_g2_plays_a_prominent_role_in_the_Catalan_opening_and_will_coordinate_it’s_efforts_particularly_with_white’s_c-pawn.
+A_popular_variation_in_the_Catalan_opening_is_the_Open_Defense..md)
 
 ---
 
@@ -91,22 +77,18 @@ Basic knowladge: Learn about the Caro-Kann Defense, a solid and popular opening 
 
 ![Caro-Kann Defense](https://chessfox.com/wp-content/uploads/2020/03/Caro-Kann-Defence.png)
 
-**Basic Theory:**
-
-Black intends to occupy the centre with pawn to d5 (supported by a pawn on c6). Furthermore, black avoids any serious weaknesses in their pawn-structure and is assured of attaining a very solid, albeit slightly passive position.
-A popular variation in the Caro-Kann opening is the Advance variation.
+[Info about basic Theory](theory/Black_intends_to_occupy_the_centre_with_pawn_to_d5_(supported_by_a_pawn_on_c6)._Furthermore,_black_avoids_any_serious_weaknesses_in_their_pawn-structure_and_is_assured_of_attaining_a_very_solid,_albeit_slightly_passive_position.
+A_popular_variation_in_the_Caro-Kann_opening_is_the_Advance_variation..md)
 
 ---
 
 ## Colle System
-Basic knowladge: Learn about the Colle System, a piece setup for White that aims for a kingside attack or a queenside expansion. Find out the main ideas, variations, and history of this opening system. ([Source](https://www.chess.com/openings/Colle-System))
+Basic knowladge: The Colle System is a chess opening system for White, popularised by Edgard Colle and George Koltanowski. It involves developing the center pawns to d4 and e3, the knight to f3, the bishop to d3, and the queen's bishop's pawn to c3. ([Source](https://en.wikipedia.org/wiki/Colle_System))
 
 ![Colle System](https://chessfox.com/wp-content/uploads/2020/03/Colle-System.png)
 
-**Basic Theory:**
-
-White’s first goal is to reach the Colle System setup (d4, Nf3, e3, c3, Bd3, Nbd2 and 0-0) after which white will decide on a plan depending on how black develops.
-A popular variation in the Colle System is the Traditional Colle (which actually refers to the way black chooses to respond, specifically to play c5, whilst white still goes for the standard Colle System setup).
+[Info about basic Theory](theory/White’s_first_goal_is_to_reach_the_Colle_System_setup_(d4,_Nf3,_e3,_c3,_Bd3,_Nbd2_and_0-0)_after_which_white_will_decide_on_a_plan_depending_on_how_black_develops.
+A_popular_variation_in_the_Colle_System_is_the_Traditional_Colle_(which_actually_refers_to_the_way_black_chooses_to_respond,_specifically_to_play_c5,_whilst_white_still_goes_for_the_standard_Colle_System_setup)..md)
 
 ---
 
@@ -115,10 +97,8 @@ Basic knowladge: Dutch Defence is a chess opening that starts with 1.d4 f5. It i
 
 ![Dutch Defense](https://chessfox.com/wp-content/uploads/2020/03/Dutch-Defence.png)
 
-**Basic Theory:**
-
-With 1… f5, black aims to dominate the light-squares, fundamentally the e4-square. The thinking is that since white played 1.d4, the e4-square becomes a sensible target. Black will also have flexibility as to how they will play in the centre with the d-and-e-pawns. However, black must accept that 1… f5 weakens their king-side.
-A popular variation in the Dutch Defense is the Fianchetto Attack.
+[Info about basic Theory](theory/With_1…_f5,_black_aims_to_dominate_the_light-squares,_fundamentally_the_e4-square._The_thinking_is_that_since_white_played_1.d4,_the_e4-square_becomes_a_sensible_target._Black_will_also_have_flexibility_as_to_how_they_will_play_in_the_centre_with_the_d-and-e-pawns._However,_black_must_accept_that_1…_f5_weakens_their_king-side.
+A_popular_variation_in_the_Dutch_Defense_is_the_Fianchetto_Attack..md)
 
 ---
 
@@ -127,12 +107,10 @@ Basic knowladge: Learn about the English Opening, a flank opening where White mo
 
 ![English Opening](https://chessfox.com/wp-content/uploads/2020/03/English-Opening.png)
 
-**Basic Theory:**
-
-The English Opening is an opening for white that starts with the move 1.c4. In a pure English opening, white will aim to control the d5-square, with the help of a bishop on g2 and another pawn on e4, supported by a pawn on d3.
-However, the English opening often transposes into another opening, such as theQueen’s Gambitor theCatalan Opening.
-Note:In chess, transposition is the scenario where the exact same position is reached, but by a different sequence of moves. For example, the English Opening will often transpose into a variation of the Queen’s Gambit.
-A popular variation in the English Opening is the Anglo Indian Defense.
+[Info about basic Theory](theory/The_English_Opening_is_an_opening_for_white_that_starts_with_the_move_1.c4._In_a_pure_English_opening,_white_will_aim_to_control_the_d5-square,_with_the_help_of_a_bishop_on_g2_and_another_pawn_on_e4,_supported_by_a_pawn_on_d3.
+However,_the_English_opening_often_transposes_into_another_opening,_such_as_theQueen’s_Gambitor_theCatalan_Opening.
+Note:In_chess,_transposition_is_the_scenario_where_the_exact_same_position_is_reached,_but_by_a_different_sequence_of_moves._For_example,_the_English_Opening_will_often_transpose_into_a_variation_of_the_Queen’s_Gambit.
+A_popular_variation_in_the_English_Opening_is_the_Anglo_Indian_Defense..md)
 
 ---
 
@@ -141,10 +119,8 @@ Basic knowladge: Learn about the Evans Gambit, a chess opening that offers a paw
 
 ![Evans Gambit](https://chessfox.com/wp-content/uploads/2020/03/Evans-Gambit.png)
 
-**Basic Theory:**
-
-In typical gambit style, white sacrifices a pawn, with b2-b4, in order to get ahead in development. An important observation is that other gambits often sacrifice a pawn near the centre. In the case of Evans Gambit, white still has all their central pawns.
-A popular variation in the Evans Gambit is the Evans Gambit Accepted.
+[Info about basic Theory](theory/In_typical_gambit_style,_white_sacrifices_a_pawn,_with_b2-b4,_in_order_to_get_ahead_in_development._An_important_observation_is_that_other_gambits_often_sacrifice_a_pawn_near_the_centre._In_the_case_of_Evans_Gambit,_white_still_has_all_their_central_pawns.
+A_popular_variation_in_the_Evans_Gambit_is_the_Evans_Gambit_Accepted..md)
 
 ---
 
@@ -153,10 +129,8 @@ Basic knowladge: The Four Knights Game is a chess opening that begins with the m
 
 ![Four Knights Game](https://chessfox.com/wp-content/uploads/2020/03/Four-Knights-Game.png)
 
-**Basic Theory:**
-
-Four Knights Game is a very principled opening, featuring very natural development from both sides. Both players develop their knights before the bishops. This is a little more flexible because, whereas the knights generally go to the c-and-f-files, it is a little less obvious where the bishops will go.
-A popular variation in the Four Knights Game is the Double Spanish Variation (also known as the Symmetrical Variation).
+[Info about basic Theory](theory/Four_Knights_Game_is_a_very_principled_opening,_featuring_very_natural_development_from_both_sides._Both_players_develop_their_knights_before_the_bishops._This_is_a_little_more_flexible_because,_whereas_the_knights_generally_go_to_the_c-and-f-files,_it_is_a_little_less_obvious_where_the_bishops_will_go.
+A_popular_variation_in_the_Four_Knights_Game_is_the_Double_Spanish_Variation_(also_known_as_the_Symmetrical_Variation)..md)
 
 ---
 
@@ -165,10 +139,8 @@ Basic knowladge: Learn about the French Defense, one of the most popular Black r
 
 ![French Defense](https://chessfox.com/wp-content/uploads/2020/03/French-Defence.png)
 
-**Basic Theory:**
-
-In the French defense the purpose of black’s first move, e6, is to support the d5-square from where black intends to challenge the centre. Also, by playing e6, black’s king is immediately safer since white will not be able to attack on the g8-a2-diagonal anytime soon.
-A popular variation in the French Defense is the Winawer Variation.
+[Info about basic Theory](theory/In_the_French_defense_the_purpose_of_black’s_first_move,_e6,_is_to_support_the_d5-square_from_where_black_intends_to_challenge_the_centre._Also,_by_playing_e6,_black’s_king_is_immediately_safer_since_white_will_not_be_able_to_attack_on_the_g8-a2-diagonal_anytime_soon.
+A_popular_variation_in_the_French_Defense_is_the_Winawer_Variation..md)
 
 ---
 
@@ -177,10 +149,8 @@ Basic knowladge: Giuoco Piano is a chess opening that begins with 1.e4 e5 2.Nf3 
 
 ![Giuoco Piano](https://chessfox.com/wp-content/uploads/2020/03/Giuoco-Piano.png)
 
-**Basic Theory:**
-
-The Giuoco Piano is a very principled opening where both sides develop naturally. White choses to place their bishop on c4–from where it attacks the centre and takes aim at the f7-square. Black responds with the same idea, Bc5.
-A popular variation in the Giuoco Piano is the Classical Variation.
+[Info about basic Theory](theory/The_Giuoco_Piano_is_a_very_principled_opening_where_both_sides_develop_naturally._White_choses_to_place_their_bishop_on_c4–from_where_it_attacks_the_centre_and_takes_aim_at_the_f7-square._Black_responds_with_the_same_idea,_Bc5.
+A_popular_variation_in_the_Giuoco_Piano_is_the_Classical_Variation..md)
 
 ---
 
@@ -189,10 +159,8 @@ Basic knowladge: The Grünfeld Defence is a chess opening characterised by the m
 
 ![Grünfeld Defense](https://chessfox.com/wp-content/uploads/2020/03/Grunfeld-Defense.png)
 
-**Basic Theory:**
-
-In typical hypermodern style, black invites white to attack the centre with their pawns (classical style). Black then seeks to aggressively counter-attack white’s centre with the d7-d5 push and their minor pieces.
-A popular variation in the Grünfeld Defense is the Exchange Variation.
+[Info about basic Theory](theory/In_typical_hypermodern_style,_black_invites_white_to_attack_the_centre_with_their_pawns_(classical_style)._Black_then_seeks_to_aggressively_counter-attack_white’s_centre_with_the_d7-d5_push_and_their_minor_pieces.
+A_popular_variation_in_the_Grünfeld_Defense_is_the_Exchange_Variation..md)
 
 ---
 
@@ -201,10 +169,8 @@ Basic knowladge: The Italian Game is one of the oldest openings in chess, with I
 
 ![Italian Game](https://chessfox.com/wp-content/uploads/2020/03/Italian-Game.png)
 
-**Basic Theory:**
-
-The Italian Game is one of the oldest recorded openings and it is easy to see why. According to classical principles (control the centre, develop quickly, castle soon) there is hardly a simpler example of achieving these objectives, than 1.e4, 2.Nf3 and 3.Bc4.
-Two popular variations in the Italian Game is the Giuoco Piano (translated “quiet game”) and the Giuoco Pianissimo (translated “very quiet game”).
+[Info about basic Theory](theory/The_Italian_Game_is_one_of_the_oldest_recorded_openings_and_it_is_easy_to_see_why._According_to_classical_principles_(control_the_centre,_develop_quickly,_castle_soon)_there_is_hardly_a_simpler_example_of_achieving_these_objectives,_than_1.e4,_2.Nf3_and_3.Bc4.
+Two_popular_variations_in_the_Italian_Game_is_the_Giuoco_Piano_(translated_“quiet_game”)_and_the_Giuoco_Pianissimo_(translated_“very_quiet_game”)..md)
 
 ---
 
@@ -213,10 +179,8 @@ Basic knowladge: Learn about the King's Gambit, an aggressive opening that offer
 
 ![King’s Gambit](https://chessfox.com/wp-content/uploads/2020/03/Kings-Gambit.png)
 
-**Basic Theory:**
-
-In the King’s Gambit white sacrifices a pawn, but also compromises the safety of their king, in exchange for rapid development and attacking opportunities on black’s king.
-A popular variation in the King’s Gambit is the King’s Gambit Accepted.
+[Info about basic Theory](theory/In_the_King’s_Gambit_white_sacrifices_a_pawn,_but_also_compromises_the_safety_of_their_king,_in_exchange_for_rapid_development_and_attacking_opportunities_on_black’s_king.
+A_popular_variation_in_the_King’s_Gambit_is_the_King’s_Gambit_Accepted..md)
 
 ---
 
@@ -225,13 +189,11 @@ Basic knowladge: The King's Indian Attack (or KIA) is a chess opening system whe
 
 ![King’s Indian Attack (KIA)](https://chessfox.com/wp-content/uploads/2020/03/Kings-Indian-Attack.png)
 
-**Basic Theory:**
-
-The King’s Indian Attack is often characterized by an all out attack on black’s king-side.
-However, before they can attack, white typically aims to:
-Develop the pieces and get their king safe (castle).Get a pawn to e5 from where it gives white a space-advantage on the kingside (if black has a pawn on e5, white usually wants to attack it–by preparing to play f2-f4).White’s usually avoids pointless piece-exchanges early on–they need the pieces to attack.
-However, white should be flexible too. Depending how black plays, white may decide to rather focus on the center or expand on the queen-side.
-A popular variation in the King’s Indian Attack is the Yugoslav Variation.
+[Info about basic Theory](theory/The_King’s_Indian_Attack_is_often_characterized_by_an_all_out_attack_on_black’s_king-side.
+However,_before_they_can_attack,_white_typically_aims_to:
+Develop_the_pieces_and_get_their_king_safe_(castle).Get_a_pawn_to_e5_from_where_it_gives_white_a_space-advantage_on_the_kingside_(if_black_has_a_pawn_on_e5,_white_usually_wants_to_attack_it–by_preparing_to_play_f2-f4).White’s_usually_avoids_pointless_piece-exchanges_early_on–they_need_the_pieces_to_attack.
+However,_white_should_be_flexible_too._Depending_how_black_plays,_white_may_decide_to_rather_focus_on_the_center_or_expand_on_the_queen-side.
+A_popular_variation_in_the_King’s_Indian_Attack_is_the_Yugoslav_Variation..md)
 
 ---
 
@@ -240,10 +202,8 @@ Basic knowladge: The earliest known use of the term "Indian Defence" was in 1884
 
 ![King’s Indian Defense (KID)](https://chessfox.com/wp-content/uploads/2020/03/Kings-Indian-Defense.png)
 
-**Basic Theory:**
-
-The King’s Indian Defense follow hypermodern principles. That is, black allows White to build a strong pawn center to later counter-attack it with a pawn-push, either e5 or c5. Black will support the pawn-push with their minor pieces, prominently the fianchettoed bishop on g7.
-A popular variation in the King’s Indian Defense is the Classical Variation.
+[Info about basic Theory](theory/The_King’s_Indian_Defense_follow_hypermodern_principles._That_is,_black_allows_White_to_build_a_strong_pawn_center_to_later_counter-attack_it_with_a_pawn-push,_either_e5_or_c5._Black_will_support_the_pawn-push_with_their_minor_pieces,_prominently_the_fianchettoed_bishop_on_g7.
+A_popular_variation_in_the_King’s_Indian_Defense_is_the_Classical_Variation..md)
 
 ---
 
@@ -252,10 +212,8 @@ Basic knowladge: The King's Pawn Game is any chess opening starting with the mov
 
 ![King’s Pawn Game](https://chessfox.com/wp-content/uploads/2020/03/Kings-Pawn-Game.png)
 
-**Basic Theory:**
-
-The variations of the King’s Pawn openings are characterized by quick development from both sides and early clashes in the centre. This leads to games that are often more tactical in nature than Queen’s Pawn openings or other Flank openings.
-A popular variation in the King’s Pawn Game is the Sicilian Defense
+[Info about basic Theory](theory/The_variations_of_the_King’s_Pawn_openings_are_characterized_by_quick_development_from_both_sides_and_early_clashes_in_the_centre._This_leads_to_games_that_are_often_more_tactical_in_nature_than_Queen’s_Pawn_openings_or_other_Flank_openings.
+A_popular_variation_in_the_King’s_Pawn_Game_is_the_Sicilian_Defense.md)
 
 ---
 
@@ -264,12 +222,10 @@ Basic knowladge: Learn the London System, a solid and flexible 1.d4 opening for 
 
 ![London System](https://chessfox.com/wp-content/uploads/2020/03/London-System.png)
 
-**Basic Theory:**
-
-In The London System (also known as the Mason Variation of the Queen’s Pawn Game), white sticks to the same setup, almost regardless of what Black plays. As with all opening systems, the theory and move order is not as important as it would be in non-system type openings.
-White will give a lot of support to their pawn on d4 (c3,e3,Nf3). Their pawn-formation in the centre will exert substantial control over the dark squares. Since black’s dark-square bishop will play an important role in defending dark squares, white will often aim to exchange their dark-square bishop for its black counterpart, quite possibly on d6.
-A popular variation in the London System is the Main Line.
-Note:The Main Line Variation of a particular opening may not always remain the most popular. The popularity of opening variations can change over time. Top-level trends, new discoveries, novelties or refutations of existing variations can all affect its popularity.
+[Info about basic Theory](theory/In_The_London_System_(also_known_as_the_Mason_Variation_of_the_Queen’s_Pawn_Game),_white_sticks_to_the_same_setup,_almost_regardless_of_what_Black_plays._As_with_all_opening_systems,_the_theory_and_move_order_is_not_as_important_as_it_would_be_in_non-system_type_openings.
+White_will_give_a_lot_of_support_to_their_pawn_on_d4_(c3,e3,Nf3)._Their_pawn-formation_in_the_centre_will_exert_substantial_control_over_the_dark_squares._Since_black’s_dark-square_bishop_will_play_an_important_role_in_defending_dark_squares,_white_will_often_aim_to_exchange_their_dark-square_bishop_for_its_black_counterpart,_quite_possibly_on_d6.
+A_popular_variation_in_the_London_System_is_the_Main_Line.
+Note:The_Main_Line_Variation_of_a_particular_opening_may_not_always_remain_the_most_popular._The_popularity_of_opening_variations_can_change_over_time._Top-level_trends,_new_discoveries,_novelties_or_refutations_of_existing_variations_can_all_affect_its_popularity..md)
 
 ---
 
@@ -278,10 +234,8 @@ Basic knowladge: Modern Defense is a hypermodern chess opening where Black delay
 
 ![Modern Defense](https://chessfox.com/wp-content/uploads/2020/03/Modern-Defense.png)
 
-**Basic Theory:**
-
-In typical hypermodern style, Black allows White to occupy the center with pawns and then seeks to undermine this “ideal” center by attacking it–primarily with minor pieces. Black delays Nf6 in order to maximize the effect of the bishop on g7.
-A popular variation in the Modern Defense is the Standard Line.
+[Info about basic Theory](theory/In_typical_hypermodern_style,_Black_allows_White_to_occupy_the_center_with_pawns_and_then_seeks_to_undermine_this_“ideal”_center_by_attacking_it–primarily_with_minor_pieces._Black_delays_Nf6_in_order_to_maximize_the_effect_of_the_bishop_on_g7.
+A_popular_variation_in_the_Modern_Defense_is_the_Standard_Line..md)
 
 ---
 
@@ -290,11 +244,9 @@ Basic knowladge: The Nimzo-Indian Defense (often called "the Nimzo" for short) i
 
 ![Nimzo-Indian Defense](https://chessfox.com/wp-content/uploads/2020/03/Nimzo-Indian-Defense.png)
 
-**Basic Theory:**
-
-In the Nimzo-Indian Defense, black wants to control the e4-squareand all their efforts will support this strategy. Since the white knight on c3 will be a key defender of the e4-square, black wants to exchange their dark-square bishop for this knight. Once this first objective is achieved, Black will also try to keep the position closed because white will have the bishop-pair. (Bishops prefer open positions.)
-The Nimzo-Indian Defense is a highly respected opening, to the extent that white sometimes chooses to play the Anti-Nimzo-Indian, where white delays 3.Nc3 (in favor of 3.Nf3) in order to avoid the Nimzo-Indian.
-A popular variation in the Nimzo-Indian Defense is the Rubinstein Variation.
+[Info about basic Theory](theory/In_the_Nimzo-Indian_Defense,_black_wants_to_control_the_e4-squareand_all_their_efforts_will_support_this_strategy._Since_the_white_knight_on_c3_will_be_a_key_defender_of_the_e4-square,_black_wants_to_exchange_their_dark-square_bishop_for_this_knight._Once_this_first_objective_is_achieved,_Black_will_also_try_to_keep_the_position_closed_because_white_will_have_the_bishop-pair._(Bishops_prefer_open_positions.)
+The_Nimzo-Indian_Defense_is_a_highly_respected_opening,_to_the_extent_that_white_sometimes_chooses_to_play_the_Anti-Nimzo-Indian,_where_white_delays_3.Nc3_(in_favor_of_3.Nf3)_in_order_to_avoid_the_Nimzo-Indian.
+A_popular_variation_in_the_Nimzo-Indian_Defense_is_the_Rubinstein_Variation..md)
 
 ---
 
@@ -303,10 +255,8 @@ Basic knowladge: Learn about the Nimzowitsch Defence, a hypermodern chess openin
 
 ![Nimzowitsch Defense](https://chessfox.com/wp-content/uploads/2020/03/Nimzowitsch-Defence.png)
 
-**Basic Theory:**
-
-The Nimzowitsch Defense invites white to play 2.d4 in classical style. Black will then prepare to undermine white’s centre, striking back with either 2… e5 or 2… d5.
-A popular variation in the Nimzowitsch Defense is the Scandinavian Variation.
+[Info about basic Theory](theory/The_Nimzowitsch_Defense_invites_white_to_play_2.d4_in_classical_style._Black_will_then_prepare_to_undermine_white’s_centre,_striking_back_with_either_2…_e5_or_2…_d5.
+A_popular_variation_in_the_Nimzowitsch_Defense_is_the_Scandinavian_Variation..md)
 
 ---
 
@@ -315,10 +265,8 @@ Basic knowladge: Petrov's Defence or the Petrov Defence (also called Petroff Def
 
 ![Petrov’s Defense](https://chessfox.com/wp-content/uploads/2020/03/Petrovs-Defense.png)
 
-**Basic Theory:**
-
-By keeping the game absolutely symmetrical, black can achieve a very solid, albeit drawish, position. In high-level games, black will usually play the Petrov only if they will be happy with a draw. The player with the black pieces may also use this opening if they want to tempt their opponent to overreach.
-A popular variation in Petrov’s Defense is the Classical Variation.
+[Info about basic Theory](theory/By_keeping_the_game_absolutely_symmetrical,_black_can_achieve_a_very_solid,_albeit_drawish,_position._In_high-level_games,_black_will_usually_play_the_Petrov_only_if_they_will_be_happy_with_a_draw._The_player_with_the_black_pieces_may_also_use_this_opening_if_they_want_to_tempt_their_opponent_to_overreach.
+A_popular_variation_in_Petrov’s_Defense_is_the_Classical_Variation..md)
 
 ---
 
@@ -327,10 +275,8 @@ Basic knowladge: The Philidor Defence (or Philidor's Defence) is a chess opening
 
 ![Philidor’s Defense](https://chessfox.com/wp-content/uploads/2020/03/Philidors-Defense.png)
 
-**Basic Theory:**
-
-It is rather difficult for white to plan an attack against Philidor’s Defense, because black avoids creating any weaknesses in their structure. On the other hand, the pawn on d6 cramps black’s development to some extent. Black typically avoids exchanges and waits for the right moment to launch a counterattack.
-A popular variation in Philidor’s Defense is the Exchange Variation.
+[Info about basic Theory](theory/It_is_rather_difficult_for_white_to_plan_an_attack_against_Philidor’s_Defense,_because_black_avoids_creating_any_weaknesses_in_their_structure._On_the_other_hand,_the_pawn_on_d6_cramps_black’s_development_to_some_extent._Black_typically_avoids_exchanges_and_waits_for_the_right_moment_to_launch_a_counterattack.
+A_popular_variation_in_Philidor’s_Defense_is_the_Exchange_Variation..md)
 
 ---
 
@@ -339,10 +285,8 @@ Basic knowladge: Learn the Pirc Defense, a hypermodern way for Black to respond 
 
 ![Pirc Defense](https://chessfox.com/wp-content/uploads/2020/03/Pirc-Defense.png)
 
-**Basic Theory:**
-
-The Pirc Defense is another example of hypermodern defense, meaning that black allows white to occupy the centre with their pawns. Black’s strategy will then be to attack white’s center with their minor pieces and to prepare the right moment for counter-strike in the centre. As a consequence of playing d6, black’s dark-square bishop must fianchetto to the g7-square in order to develop.
-A popular variation in the Pirc Defense is the Classical Variation.
+[Info about basic Theory](theory/The_Pirc_Defense_is_another_example_of_hypermodern_defense,_meaning_that_black_allows_white_to_occupy_the_centre_with_their_pawns._Black’s_strategy_will_then_be_to_attack_white’s_center_with_their_minor_pieces_and_to_prepare_the_right_moment_for_counter-strike_in_the_centre._As_a_consequence_of_playing_d6,_black’s_dark-square_bishop_must_fianchetto_to_the_g7-square_in_order_to_develop.
+A_popular_variation_in_the_Pirc_Defense_is_the_Classical_Variation..md)
 
 ---
 
@@ -351,10 +295,8 @@ Basic knowladge: In the 19th century and early 20th century, 1.e4 was by far the
 
 ![Queen’s Pawn Game](https://chessfox.com/wp-content/uploads/2020/03/Queens-Pawn-Game.png)
 
-**Basic Theory:**
-
-The family of Queen’s Pawn Openings usually leads to slower development (as compared to King’s Pawn Openings). One reason for this is that the pawn on d4 is already defended 9by the queen), whereas with 1.e4, the pawn would not be defended yet. This implies that Queen’s Pawn Openings are generally, but not always, less tactical and more strategic in nature than King’s Pawn Opening. On the other hand, Queen’s Pawn Openings can give white a little more time to play for strategic advantages.
-A popular variation in the Queen’s Pawn Game is the Anti-Nimzo-Indian.
+[Info about basic Theory](theory/The_family_of_Queen’s_Pawn_Openings_usually_leads_to_slower_development_(as_compared_to_King’s_Pawn_Openings)._One_reason_for_this_is_that_the_pawn_on_d4_is_already_defended_9by_the_queen),_whereas_with_1.e4,_the_pawn_would_not_be_defended_yet._This_implies_that_Queen’s_Pawn_Openings_are_generally,_but_not_always,_less_tactical_and_more_strategic_in_nature_than_King’s_Pawn_Opening._On_the_other_hand,_Queen’s_Pawn_Openings_can_give_white_a_little_more_time_to_play_for_strategic_advantages.
+A_popular_variation_in_the_Queen’s_Pawn_Game_is_the_Anti-Nimzo-Indian..md)
 
 ---
 
@@ -363,16 +305,14 @@ Basic knowladge: The Queen's Gambit is a 2020 American coming-of-age period dram
 
 ![Queen’s Gambit](https://chessfox.com/wp-content/uploads/2020/04/Queens-Gambit.png)
 
-**Basic Theory:**
+[Info about basic Theory](theory/Although_the_Queen’s_Gambit_is_a_very_dynamic_opening,_the_concept_behind_it_is_simple_and_logical:_White_wants_to_exchange_their_flank-pawn_(c-pawn)_for_a_central_pawn_(d-pawn)._If_black_accepts_the_gambit,_white_will_then_have_two_central_pawns_against_black’s_one_central_pawn._The_Queen’s_Gambit_is_not_a_true_gambit_opening_though,_because_white_will_typically_regain_the_pawn_since_black_can’t_hold_onto_it_in_a_favorable_manner.
+Queen’s_Gambit_Accepted
+1.d4_d5_2.c4_dxc4
 
-Although the Queen’s Gambit is a very dynamic opening, the concept behind it is simple and logical: White wants to exchange their flank-pawn (c-pawn) for a central pawn (d-pawn). If black accepts the gambit, white will then have two central pawns against black’s one central pawn. The Queen’s Gambit is not a true gambit opening though, because white will typically regain the pawn since black can’t hold onto it in a favorable manner.
-Queen’s Gambit Accepted
-1.d4 d5 2.c4 dxc4
-
-The Queen’s Gambit Accepted is an opening for black that starts with the moves 1.d4 d5 2.c4 dxc4, named after the fact that black accepts the gambit.
-Queen’s Gambit Accepted Basic Theory
-When black accepts the gambit, they generally also accept that they will not try to save the pawn. Instead, black will focus on development and typically plan to gain time and space on the queen-side.
-A popular variation in the Queen’s Gambit Accepted is the Main Line.
+The_Queen’s_Gambit_Accepted_is_an_opening_for_black_that_starts_with_the_moves_1.d4_d5_2.c4_dxc4,_named_after_the_fact_that_black_accepts_the_gambit.
+Queen’s_Gambit_Accepted_Basic_Theory
+When_black_accepts_the_gambit,_they_generally_also_accept_that_they_will_not_try_to_save_the_pawn._Instead,_black_will_focus_on_development_and_typically_plan_to_gain_time_and_space_on_the_queen-side.
+A_popular_variation_in_the_Queen’s_Gambit_Accepted_is_the_Main_Line..md)
 
 ---
 
@@ -381,10 +321,8 @@ Basic knowladge: Learn about the chess opening 1.d4 d5 2.c4 dxc4, also known as 
 
 ![Queen’s Gambit Accepted](https://chessfox.com/wp-content/uploads/2020/03/Queens-Gambit-Accepted-Main-Line.png)
 
-**Basic Theory:**
-
-When black accepts the gambit, they generally also accept that they will not try to save the pawn. Instead, black will focus on development and typically plan to gain time and space on the queen-side.
-A popular variation in the Queen’s Gambit Accepted is the Main Line.
+[Info about basic Theory](theory/When_black_accepts_the_gambit,_they_generally_also_accept_that_they_will_not_try_to_save_the_pawn._Instead,_black_will_focus_on_development_and_typically_plan_to_gain_time_and_space_on_the_queen-side.
+A_popular_variation_in_the_Queen’s_Gambit_Accepted_is_the_Main_Line..md)
 
 ---
 
@@ -393,10 +331,8 @@ Basic knowladge: Learn about the chess opening in which Black declines a pawn of
 
 ![Queen’s Gambit Declined](https://chessfox.com/wp-content/uploads/2020/03/Queens-Gambit-Declined-Semi-Slav-Variation.png)
 
-**Basic Theory:**
-
-By declining white’s offer, black indicates that they want to keep their pawn on d5 and will even reinforce the d5-pawn by playing e6.
-A popular variation in the Queen’s Gambit Declined is the Semi-Slav Variation.
+[Info about basic Theory](theory/By_declining_white’s_offer,_black_indicates_that_they_want_to_keep_their_pawn_on_d5_and_will_even_reinforce_the_d5-pawn_by_playing_e6.
+A_popular_variation_in_the_Queen’s_Gambit_Declined_is_the_Semi-Slav_Variation..md)
 
 ---
 
@@ -405,10 +341,8 @@ Basic knowladge: Learn the Queen's Indian Defense, a hypermodern opening for Bla
 
 ![Queen’s Indian Defense](https://chessfox.com/wp-content/uploads/2020/03/Queens-Indian-Defense-Fianchetto-Variation.png)
 
-**Basic Theory:**
-
-In typical hypermodern style, black won’t occupy the center with pawns but instead focuses on piece development. If white avoids the Nimzo-Indian Defense with 3.Nf3, black will fianchetto their queen’s bishop with the idea to control the light central squares, particularly the e4-square. Since black’s position will be a bit cramped, black will usually try to exchange a few minor pieces in order to create a bit more space. However, white can get a good position if they can control the e4-square in a favorable manner.
-A popular variation in the Queen’s Indian Defense is the Fianchetto Variation.
+[Info about basic Theory](theory/In_typical_hypermodern_style,_black_won’t_occupy_the_center_with_pawns_but_instead_focuses_on_piece_development._If_white_avoids_the_Nimzo-Indian_Defense_with_3.Nf3,_black_will_fianchetto_their_queen’s_bishop_with_the_idea_to_control_the_light_central_squares,_particularly_the_e4-square._Since_black’s_position_will_be_a_bit_cramped,_black_will_usually_try_to_exchange_a_few_minor_pieces_in_order_to_create_a_bit_more_space._However,_white_can_get_a_good_position_if_they_can_control_the_e4-square_in_a_favorable_manner.
+A_popular_variation_in_the_Queen’s_Indian_Defense_is_the_Fianchetto_Variation..md)
 
 ---
 
@@ -417,10 +351,8 @@ Basic knowladge: The Réti Opening is a hypermodern chess opening that begins wi
 
 ![Réti Opening](https://chessfox.com/wp-content/uploads/2020/03/Réti-Opening-Transpose-Queens-Gambit-Declined.png)
 
-**Basic Theory:**
-
-Unlike most other openings, the Réti is not a specific but rather a set of themes that characterize the opening. In modern times the Réti Opening refers to white playing Nf3, c4, fianchettoes at least one bishop and does not play an early d4. whereas black plays 1…d5.
-A popular variation in the Réti Opening is the Queen’s Gambit (Transposed).
+[Info about basic Theory](theory/Unlike_most_other_openings,_the_Réti_is_not_a_specific_but_rather_a_set_of_themes_that_characterize_the_opening._In_modern_times_the_Réti_Opening_refers_to_white_playing_Nf3,_c4,_fianchettoes_at_least_one_bishop_and_does_not_play_an_early_d4._whereas_black_plays_1…d5.
+A_popular_variation_in_the_Réti_Opening_is_the_Queen’s_Gambit_(Transposed)..md)
 
 ---
 
@@ -429,22 +361,18 @@ Basic knowladge: The Ruy Lopez (/ r ɔɪ, ˈ r uː i /; Spanish: [ˈruj ˈlopeθ
 
 ![Ruy Lopez](https://chessfox.com/wp-content/uploads/2020/03/Ruy-Lopez-Closed-Defense.png)
 
-**Basic Theory:**
-
-After 1.e4 e5 2.Nf3 Nc6, the move 3.Bb5 is the Ruy Lopez. At its most basic level, the purpose of this move is to add pressure on the e5-square by attacking its main defender (the knight on c6). White is even threatening to win the pawn on e5. It doesn’t work right away though, because after 3… a6 4.Bxc6 dxc6 5.Nxe5, black can play 5… Qd4, attacking the white knight and pawn on e4.
-A popular variation in the Ruy Lopez is the Closed Defense.
+[Info about basic Theory](theory/After_1.e4_e5_2.Nf3_Nc6,_the_move_3.Bb5_is_the_Ruy_Lopez._At_its_most_basic_level,_the_purpose_of_this_move_is_to_add_pressure_on_the_e5-square_by_attacking_its_main_defender_(the_knight_on_c6)._White_is_even_threatening_to_win_the_pawn_on_e5._It_doesn’t_work_right_away_though,_because_after_3…_a6_4.Bxc6_dxc6_5.Nxe5,_black_can_play_5…_Qd4,_attacking_the_white_knight_and_pawn_on_e4.
+A_popular_variation_in_the_Ruy_Lopez_is_the_Closed_Defense..md)
 
 ---
 
 ## Scandinavian Defense
-Basic knowladge: Learn about the history, theory, and variations of the Scandinavian Defense, a chess opening that starts with 1.e4 d5. Find out how top players have used it in recent years and how it differs from the Caro-Kann Defense. ([Source](https://en.wikipedia.org/wiki/Scandinavian_Defense))
+Basic knowladge: Learn about the Scandinavian Defense, a chess opening where Black attacks White's e4 pawn with 1...d5. Find out its history, variations, advantages, disadvantages and examples from master games. ([Source](https://www.chess.com/openings/Scandinavian-Defense))
 
 ![Scandinavian Defense](https://chessfox.com/wp-content/uploads/2020/03/Scandinavian-Defense-Main-Line.png)
 
-**Basic Theory:**
-
-1.e4 d5, the Scandinavian Defense, appears to be a very attacking opening for black. However, it is in fact rather passive, at least in the early stages of the game. Black’s development will be slow and white can develop freely. However, since the opening is also very solid for black (because they have no weaknesses in their pawn-structure), it will be difficult for white to plan an attack. At a later stage then, black can aim to take advantage of any weaknesses in white’s structure.
-A popular variation in the Scandinavian Defense is the Main Line.
+[Info about basic Theory](theory/1.e4_d5,_the_Scandinavian_Defense,_appears_to_be_a_very_attacking_opening_for_black._However,_it_is_in_fact_rather_passive,_at_least_in_the_early_stages_of_the_game._Black’s_development_will_be_slow_and_white_can_develop_freely._However,_since_the_opening_is_also_very_solid_for_black_(because_they_have_no_weaknesses_in_their_pawn-structure),_it_will_be_difficult_for_white_to_plan_an_attack._At_a_later_stage_then,_black_can_aim_to_take_advantage_of_any_weaknesses_in_white’s_structure.
+A_popular_variation_in_the_Scandinavian_Defense_is_the_Main_Line..md)
 
 ---
 
@@ -453,35 +381,29 @@ Basic knowladge: Learn about the Scotch Game, a 1.e4 opening for White that avoi
 
 ![Scotch Game](https://chessfox.com/wp-content/uploads/2020/03/Scotch-Game-Classical-Variation.png)
 
-**Basic Theory:**
-
-In the Scotch Game, white’s first objective is to open up the centre by forcing black to exchange their e-pawn for white’s d-pawn. This will ensure that white obtains a space advantage in the centre. Then, white will put black under pressure by developing quickly and using the open lines to create attacking opportunities.
-A popular variation in the Scoth Game is the Classical Variation.
+[Info about basic Theory](theory/In_the_Scotch_Game,_white’s_first_objective_is_to_open_up_the_centre_by_forcing_black_to_exchange_their_e-pawn_for_white’s_d-pawn._This_will_ensure_that_white_obtains_a_space_advantage_in_the_centre._Then,_white_will_put_black_under_pressure_by_developing_quickly_and_using_the_open_lines_to_create_attacking_opportunities.
+A_popular_variation_in_the_Scoth_Game_is_the_Classical_Variation..md)
 
 ---
 
 ## Sicilian Defense
-Basic knowladge: Learn about the Sicilian Defense, the most popular response to White's 1.e4. Explore its variations, theory, history, and examples from top players. ([Source](https://www.chess.com/openings/Sicilian-Defense))
+Basic knowladge: Learn about the Sicilian Defence, a chess opening that begins with 1.e4 c5 and is the most popular response to White's first move. Explore its history, general concepts, variations, and famous games. ([Source](https://en.wikipedia.org/wiki/Sicilian_Defence))
 
 ![Sicilian Defense](https://chessfox.com/wp-content/uploads/2020/03/Sicilian-Defense-Najdorf-Variation.png)
 
-**Basic Theory:**
-
-In the Sicilian Defense, black upsets the balance in the position on their very first move, which declares they are ready for a fight.
-The Sicilian Defense is a counter-attacking opening where the players typically attack on opposite sides of the board. Black typically expands on the queen-side with …a6 and …b5, and play along the semi-open c-file. And since black’s c-pawn has moved, black will typically castle to the short side. White, on the other hand, will seek to crash through the centre–into black’s position–or potentially launch an attack on black’s king-side. White’s strategy will be very effective if black fails to defend the centre.
-A popular variation in the opening is the Sicilian Defense is the Najdorf Variation.
+[Info about basic Theory](theory/In_the_Sicilian_Defense,_black_upsets_the_balance_in_the_position_on_their_very_first_move,_which_declares_they_are_ready_for_a_fight.
+The_Sicilian_Defense_is_a_counter-attacking_opening_where_the_players_typically_attack_on_opposite_sides_of_the_board._Black_typically_expands_on_the_queen-side_with_…a6_and_…b5,_and_play_along_the_semi-open_c-file._And_since_black’s_c-pawn_has_moved,_black_will_typically_castle_to_the_short_side._White,_on_the_other_hand,_will_seek_to_crash_through_the_centre–into_black’s_position–or_potentially_launch_an_attack_on_black’s_king-side._White’s_strategy_will_be_very_effective_if_black_fails_to_defend_the_centre.
+A_popular_variation_in_the_opening_is_the_Sicilian_Defense_is_the_Najdorf_Variation..md)
 
 ---
 
 ## Slav Defense
-Basic knowladge: The Slav Defense is a solid opening for Black in response to White's Queen's Gambit (1.d4 d5 2.c4). Black fights for equality against one of White's most popular openings without creating a bad light-squared bishop—one of the downsides of other defenses like the French Defense and the Queen's Gambit Declined. ([Source](https://www.chess.com/openings/Slav-Defense))
+Basic knowladge: The Slav Defense is a chess opening that begins with the moves: 1. d4 d5 2. c4 c6. The Slav is one of the primary defenses to the Queen's Gambit. Although it was analyzed as early as 1590, it was not until the 1920s that it started to be explored extensively, although Steinitz essayed it in the first official World Chess Championship of 1886. ([Source](https://en.wikipedia.org/wiki/Slav_Defense))
 
 ![Slav Defense](https://chessfox.com/wp-content/uploads/2022/08/Slav-Defense-Semi-Slav.png)
 
-**Basic Theory:**
-
-The theory of the Slav Defense was developed by top players who longed for a solid opening against one of white’s most popular openings, the Queen’s Gambit. One problem they had to solve, was the fact that many other defenses rely on an early e7-e6, resulting in a bad light-squared bishop (stuck behind the e6-pawn). In the main lines of the Slav Defense, black overcomes this problem by supporting the d5-pawn with their c-pawn, instead of the e-pawn, making it possible for the light-square bishop to develop freely.
-A popular variation in the Slav Defense is the Semi-Slav.
+[Info about basic Theory](theory/The_theory_of_the_Slav_Defense_was_developed_by_top_players_who_longed_for_a_solid_opening_against_one_of_white’s_most_popular_openings,_the_Queen’s_Gambit._One_problem_they_had_to_solve,_was_the_fact_that_many_other_defenses_rely_on_an_early_e7-e6,_resulting_in_a_bad_light-squared_bishop_(stuck_behind_the_e6-pawn)._In_the_main_lines_of_the_Slav_Defense,_black_overcomes_this_problem_by_supporting_the_d5-pawn_with_their_c-pawn,_instead_of_the_e-pawn,_making_it_possible_for_the_light-square_bishop_to_develop_freely.
+A_popular_variation_in_the_Slav_Defense_is_the_Semi-Slav..md)
 
 ---
 
@@ -490,10 +412,8 @@ Basic knowladge: The Torre Attack is rarely met in modern top-flight play as a "
 
 ![Torre Attack](https://chessfox.com/wp-content/uploads/2020/03/Torre-Attack-Classical-Defense.png)
 
-**Basic Theory:**
-
-The Torre Attack is a system opening that is in fact very similar to the London System. In the Torre Attack, white’s dark-square bishop goes to g5 (in the London System this bishop goes to f4). White aims to occupy the center with pawns and prepares to play e3-e4 once the square is supported from a knight on d2, a bishop on d3 and, possibly, a rook on e1. Another common idea is to attack on the kingside, starting with Ne5 and then f4.
-A popular variation in the Torre Attack is the Classical Defense.
+[Info about basic Theory](theory/The_Torre_Attack_is_a_system_opening_that_is_in_fact_very_similar_to_the_London_System._In_the_Torre_Attack,_white’s_dark-square_bishop_goes_to_g5_(in_the_London_System_this_bishop_goes_to_f4)._White_aims_to_occupy_the_center_with_pawns_and_prepares_to_play_e3-e4_once_the_square_is_supported_from_a_knight_on_d2,_a_bishop_on_d3_and,_possibly,_a_rook_on_e1._Another_common_idea_is_to_attack_on_the_kingside,_starting_with_Ne5_and_then_f4.
+A_popular_variation_in_the_Torre_Attack_is_the_Classical_Defense..md)
 
 ---
 
@@ -502,15 +422,13 @@ Basic knowladge: The Two Knights Defense (also called the Prussian Defense) is a
 
 ![Two Knights Defense](https://chessfox.com/wp-content/uploads/2020/03/Fried-Liver-Attack.png)
 
-**Basic Theory:**
+[Info about basic Theory](theory/If_black_plays_the_Two_Knights_Defense,_they_are_(usually)_either_ignorant_of_the_Fried_Liver_Attack,_or_they_want_to_tempt_white_to_try_it._If_white_isn’t_tempted_though,_the_game_will_most_likely_transpose_into_a_variation_of_the_Italian_Game,_Giuoco_Pianissimo.
+Note:If_black_wants_to_play_the_Two_Knights_Defense,_it_is_imperative_that_they_know_how_to_deal_with_the_Fried_Liver_Attack.
+Fried_Liver_Attack
+1.e4_e5_2.Nf3_Nc6_3.Bc4_Nc6_4.Ng5!?_threatening_Nxf7.
 
-If black plays the Two Knights Defense, they are (usually) either ignorant of the Fried Liver Attack, or they want to tempt white to try it. If white isn’t tempted though, the game will most likely transpose into a variation of the Italian Game, Giuoco Pianissimo.
-Note:If black wants to play the Two Knights Defense, it is imperative that they know how to deal with the Fried Liver Attack.
-Fried Liver Attack
-1.e4 e5 2.Nf3 Nc6 3.Bc4 Nc6 4.Ng5!? threatening Nxf7.
-
-Black must be very well versed in the theory of the Fried Liver Attack if they want to survive the onslaught. For example, after 4.Ng5 d5 5.exd5 Nxd5? (Na5 is correct) 6.Nxf7!? Kxf7 7.Qf3+ black is in an almost losing position.
-Note that if black played 3… Bc5, then 4.Ng5? can be met with Qxg5. Or 3… Bc5 4.Nc3 Nf6 5.Ng5 0-0 is good for black.,
+Black_must_be_very_well_versed_in_the_theory_of_the_Fried_Liver_Attack_if_they_want_to_survive_the_onslaught._For_example,_after_4.Ng5_d5_5.exd5_Nxd5?_(Na5_is_correct)_6.Nxf7!?_Kxf7_7.Qf3+_black_is_in_an_almost_losing_position.
+Note_that_if_black_played_3…_Bc5,_then_4.Ng5?_can_be_met_with_Qxg5._Or_3…_Bc5_4.Nc3_Nf6_5.Ng5_0-0_is_good_for_black.,.md)
 
 ---
 
@@ -519,10 +437,8 @@ Basic knowladge: Learn about the Vienna Game, a 1.e4 opening for White that is l
 
 ![Vienna Game](https://chessfox.com/wp-content/uploads/2020/03/Vienna-Game-Mieses-Variation.png)
 
-**Basic Theory:**
-
-In the Vienna Game opening, white does not play the almost expected 2.Nf3, but instead develops the other knight, 3.Nc3, with the intent to possibly play f2-f4 on the 3rd move. In some variations then, the Vienna Game can be seen as a delayed King’s Gambit.
-A popular variation in the Vienna Game is the Mieses Variation.
+[Info about basic Theory](theory/In_the_Vienna_Game_opening,_white_does_not_play_the_almost_expected_2.Nf3,_but_instead_develops_the_other_knight,_3.Nc3,_with_the_intent_to_possibly_play_f2-f4_on_the_3rd_move._In_some_variations_then,_the_Vienna_Game_can_be_seen_as_a_delayed_King’s_Gambit.
+A_popular_variation_in_the_Vienna_Game_is_the_Mieses_Variation..md)
 
 ---
 
@@ -531,10 +447,8 @@ Basic knowladge: Wade Defense 1.e4 d6 2.Nf3 Bg4. Top Players ([Source](https://w
 
 ![Wade Defense](https://chessfox.com/wp-content/uploads/2020/03/Wade-Defense-Main-Line-1.png)
 
-**Basic Theory:**
-
-Right from the word go, black’s light-square bishop exerts some annoying influence on white’s knight. This implies that black may have in mind to fight for the d4- and e5-squares.
-A popular variation in the Wade Defense is the Main Line.
+[Info about basic Theory](theory/Right_from_the_word_go,_black’s_light-square_bishop_exerts_some_annoying_influence_on_white’s_knight._This_implies_that_black_may_have_in_mind_to_fight_for_the_d4-_and_e5-squares.
+A_popular_variation_in_the_Wade_Defense_is_the_Main_Line..md)
 
 ---
 
